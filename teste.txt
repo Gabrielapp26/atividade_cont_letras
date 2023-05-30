@@ -1,0 +1,5 @@
+Resolva aqui o desafio de criar o contador de palavras que obedece ao padrão de Map Reduce exibido nos slides disponíveis.
+
+Boa diversão.
+
+Prof. Arnaldo
